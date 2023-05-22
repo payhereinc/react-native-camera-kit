@@ -1,11 +1,11 @@
 {
-  "name": "react-native-camera-kit",
+  "name": "@payhereinc/react-native-camera-kit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/teslamotors/react-native-camera-kit.git"
+    "url": "https://github.com/payhereinc/react-native-camera-kit.git"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com"
   },
   "version": "13.0.0",
   "description": "A high performance, fully featured, rock solid camera library for React Native applications",
